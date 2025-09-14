@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assetregistrytool\\module.assetregistrytool.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\chineselocation\\ue4\\intotheradius2\\intermediate\\build\\win64\\x64\\intotheradius2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assetregistrytool\\definitions.assetregistrytool.h",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistrytool\\uht\\assetregistrytool.init.gen.cpp",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistrytool\\uht\\assetregistrytoolcommandlet.gen.cpp",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\source\\assetregistrytool\\public\\assetregistrytoolcommandlet.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\commandlets\\commandlet.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\commandlet.generated.h",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistrytool\\uht\\assetregistrytoolcommandlet.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

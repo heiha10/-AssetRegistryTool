@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AssetRegistryTool.cpp.obj": [
+			"AssetRegistryTool.init.gen.cpp.obj",
+			"AssetRegistryToolCommandlet.gen.cpp.obj",
+			"AssetRegistryArchive.cpp.obj",
+			"AssetRegistryTool.cpp.obj",
+			"AssetRegistryToolCommandlet.cpp.obj",
+			"AssetRegistryToolHelper.cpp.obj",
+			"NameTableArchive.cpp.obj"
+		]
+	}
+}

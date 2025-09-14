@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AssetRegistryTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Chineselocation\UE4\IntoTheRadius2\Intermediate\Build\Win64\x64\IntoTheRadius2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\Chineselocation\UE4\IntoTheRadius2\Plugins\AssetRegistryTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistryTool\Module.AssetRegistryTool.cpp.obj"
+"E:\Chineselocation\UE4\IntoTheRadius2\Plugins\AssetRegistryTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistryTool\AssetRegistryArchive.cpp.obj"
+"E:\Chineselocation\UE4\IntoTheRadius2\Plugins\AssetRegistryTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistryTool\AssetRegistryTool.cpp.obj"
+"E:\Chineselocation\UE4\IntoTheRadius2\Plugins\AssetRegistryTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistryTool\AssetRegistryToolCommandlet.cpp.obj"
+"E:\Chineselocation\UE4\IntoTheRadius2\Plugins\AssetRegistryTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistryTool\AssetRegistryToolHelper.cpp.obj"
+"E:\Chineselocation\UE4\IntoTheRadius2\Plugins\AssetRegistryTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistryTool\NameTableArchive.cpp.obj"
+"E:\Chineselocation\UE4\IntoTheRadius2\Plugins\AssetRegistryTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistryTool\Default.rc2.res"
+/OUT:"E:\Chineselocation\UE4\IntoTheRadius2\Plugins\AssetRegistryTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistryTool\UnrealEditor-AssetRegistryTool.lib"

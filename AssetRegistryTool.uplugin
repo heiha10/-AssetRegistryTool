@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Asset Registry Tool",
+  "Description": "Custom plugin to inspect and merge AssetRegistry.bin files.",
+  "Category": "Other",
+  "Modules": [
+    {
+      "Name": "AssetRegistryTool",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "EnabledByDefault": true
+}

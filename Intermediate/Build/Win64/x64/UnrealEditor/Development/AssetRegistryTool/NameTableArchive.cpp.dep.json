@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\source\\assetregistrytool\\private\\nametablearchive.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\chineselocation\\ue4\\intotheradius2\\intermediate\\build\\win64\\x64\\intotheradius2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assetregistrytool\\definitions.assetregistrytool.h",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\source\\assetregistrytool\\private\\nametablearchive.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrystate.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\source\\assetregistrytool\\public\\assetregistrytoolcommandlet.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\commandlets\\commandlet.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\commandlet.generated.h",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistrytool\\uht\\assetregistrytoolcommandlet.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

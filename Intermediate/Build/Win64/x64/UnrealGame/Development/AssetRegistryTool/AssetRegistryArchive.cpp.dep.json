@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\source\\assetregistrytool\\private\\assetregistryarchive.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\chineselocation\\ue4\\intotheradius2\\intermediate\\build\\win64\\x64\\intotheradius2\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\intermediate\\build\\win64\\x64\\unrealgame\\development\\assetregistrytool\\definitions.assetregistrytool.h",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\source\\assetregistrytool\\private\\assetregistryarchive.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\assetdatatagmapserializationdetails.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\core\\public\\serialization\\largememorywriter.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\core\\public\\serialization\\largememorydata.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\core\\public\\uobject\\namebatchserialization.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrystate.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\source\\assetregistrytool\\public\\assetregistrytoolcommandlet.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\commandlets\\commandlet.h",
+            "e:\\ue4 editors\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\commandlet.generated.h",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\intermediate\\build\\win64\\unrealgame\\inc\\assetregistrytool\\uht\\assetregistrytoolcommandlet.generated.h",
+            "e:\\chineselocation\\ue4\\intotheradius2\\plugins\\assetregistrytool\\source\\assetregistrytool\\private\\nametablearchive.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
