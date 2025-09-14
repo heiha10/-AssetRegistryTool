@@ -9,11 +9,9 @@ UE 5.4.4 AssetRegistry.bin 合并工具（merge）
 进入你的引擎目录下的xxx\Engine\Binaries\Win64 目录下 用cmd或者powershell运行下方的命令 具体目录自行修改
 
 
-
 导出json
 
 .\UnrealEditor-Cmd.exe  "xxxxx/xxxx.uproject" -run=AssetRegistryTool List -AssetRegistry="xxxx/AssetRegistry.bin"  -OutFile="xxx/AssetRegistryout.json" 
-
 
 
 
